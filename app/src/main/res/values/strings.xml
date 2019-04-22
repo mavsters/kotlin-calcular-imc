@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+
+    <!-- Main Activity -->
+    <string name="lbl_title_main">Calcula tú IMC</string>
+    <string name="txt_width">Ingrese su Peso en [Kg]</string>
+    <string name="txt_height">Ingrese su Altura en [m]</string>
+    <string name="btn_submit">Calcular</string>
+    <string name="lbl_result">Su resultado es:</string>
+</resources>
